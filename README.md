@@ -154,7 +154,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbo)!
 
 
 ## Credits
